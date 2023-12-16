@@ -1,0 +1,14 @@
+
+C:\Users\maitr\Desktop>java PayrollSystem.java
+error: can't find main(String[]) method in class: Employee
+
+C:\Users\maitr\Desktop>Javac PayrollSystem.java
+
+C:\Users\maitr\Desktop>Java PayrollSystem
+Enter hourly rate: 500
+Enter hours worked: 3
+Employee ID: 57
+Employee Name: Shilpee Maitra
+Designation: PG Staff for MSAIM
+Weekly Salary: 1500.0
+Bonus: 75.0
